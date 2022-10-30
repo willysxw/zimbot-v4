@@ -1,7 +1,7 @@
 {
   "name": "Zim Bot Inc",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v4",
+  "repository": "https://github.com/willysxw/zimbot-v4",
   "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "stack": "container",
