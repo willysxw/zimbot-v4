@@ -92,10 +92,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zim-bot/zimbot-v4.git"
+    "url": "git+https://github.com/willysxw/zimbot-v4.git"
   },
   "bugs": {
-    "url": "https://github.com/zim-bot/zimbot-v4/issues"
+    "url": "https://github.com/willysxw/zimbot-v4/issues"
   },
-  "homepage": "https://github.com/zim-bot/zimbot-v4#readme"
+  "homepage": "https://github.com/willysxw/zimbot-v4#readme"
 }
